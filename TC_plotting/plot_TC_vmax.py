@@ -20,7 +20,6 @@ from matplotlib import colors as c
 matplotlib.use('Agg')
 
 import cartopy
-import dawsonpy
 
 
 
